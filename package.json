@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-exeto",
-  "version": "6.2.0",
+  "version": "7.0.0",
   "description": "Eslint config based on the config Airbnb",
   "license": "MIT",
   "repository": "exeto/eslint-config-exeto",

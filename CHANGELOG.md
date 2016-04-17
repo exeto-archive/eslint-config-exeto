@@ -4,6 +4,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [7.0.0] - 2016-04-17
+### Changed
+- Update `eslint-config-airbnb` to version `7.0.0`.
+
 ## [6.2.0] - 2016-03-31
 ### Changed
 - Delete `no-multi-spaces` rule.
@@ -17,6 +21,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Initial commit.
 
-[Unreleased]: https://github.com/exeto/eslint-config-exeto/compare/v6.2.0...HEAD
+[Unreleased]: https://github.com/exeto/eslint-config-exeto/compare/v7.0.0...HEAD
+[7.0.0]: https://github.com/exeto/eslint-config-exeto/compare/v6.2.0...v7.0.0
 [6.2.0]: https://github.com/exeto/eslint-config-exeto/compare/v6.1.0...v6.2.0
 [6.1.0]: https://github.com/exeto/eslint-config-exeto/compare/v6.0.2...v6.1.0
