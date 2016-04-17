@@ -19,10 +19,6 @@
     "styleguide"
   ],
   "dependencies": {
-    "eslint-config-airbnb": "~6.2.0"
-  },
-  "peerDependencies": {
-    "eslint": "^2.5.3",
-    "eslint-plugin-react": "^4.2.3"
+    "eslint-config-airbnb": "~7.0.0"
   }
 }
