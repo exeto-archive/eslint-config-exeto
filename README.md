@@ -8,6 +8,8 @@
 $ npm install --save-dev \
   eslint-config-exeto \
   eslint-plugin-react \
+  eslint-plugin-import \
+  eslint-plugin-jsx-a11y \
   eslint
 ```
 
