@@ -19,6 +19,6 @@
     "styleguide"
   ],
   "dependencies": {
-    "eslint-config-airbnb": "~7.0.0"
+    "eslint-config-airbnb": "~8.0.0"
   }
 }
