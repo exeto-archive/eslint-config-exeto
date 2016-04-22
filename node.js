@@ -1,7 +1,5 @@
 module.exports = {
-  extends: [
-    'eslint-config-airbnb/base',
-  ].map(require.resolve),
+  extends: require.resolve('eslint-config-airbnb/base'),
   rules: {
     'func-names': 0,
     'no-param-reassign': 0,
