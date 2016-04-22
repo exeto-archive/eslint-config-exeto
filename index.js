@@ -8,8 +8,5 @@ module.exports = {
     'consistent-return': 0,
     'no-shadow': [2, { 'allow': ['err', 'resolve', 'reject', 'cb'] }],
     'no-use-before-define': 0,
-    'react/jsx-no-bind': [2, {
-      'allowArrowFunctions': true,
-    }],
   },
 };
