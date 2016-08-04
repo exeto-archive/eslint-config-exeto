@@ -2,14 +2,10 @@
   "name": "eslint-config-exeto",
   "version": "8.0.1",
   "description": "Eslint config based on the config Airbnb",
-  "license": "MIT",
-  "repository": "exeto/eslint-config-exeto",
   "main": "index.js",
-  "author": {
-    "name": "Timofey Dergachev",
-    "email": "t@exeto.me",
-    "url": "exeto.me"
-  },
+  "repository": "exeto/eslint-config-exeto",
+  "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
+  "license": "MIT",
   "keywords": [
     "eslint",
     "eslintconfig",
@@ -19,6 +15,6 @@
     "styleguide"
   ],
   "dependencies": {
-    "eslint-config-airbnb": "~8.0.0"
+    "eslint-config-airbnb": "~10.0.0"
   }
 }
