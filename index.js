@@ -1,11 +1,9 @@
 module.exports = {
-  extends: require.resolve('eslint-config-airbnb'),
-  rules: {
-    'func-names': 0,
-    'no-param-reassign': 0,
-    'consistent-return': 0,
-    'no-shadow': [2, { 'allow': ['err', 'resolve', 'reject', 'cb'] }],
-    'global-require': 0,
-    'no-use-before-define': 0,
-  },
+  extends: [
+    'eslint-config-exeto-base',
+    'eslint-config-exeto-base/rules/strict',
+    './rules/react',
+    './rules/react-a11y',
+  ].map(require.resolve),
+  rules: {}
 };
