@@ -1,3 +1,7 @@
+10.0.0 / 2016-08-09
+==================
+- Exchange the code for a fork eslint-config-airbnb
+
 8.0.1 / 2016-04-22
 ==================
 - Disable `global-require` rule
