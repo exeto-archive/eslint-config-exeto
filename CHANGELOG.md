@@ -1,5 +1,20 @@
+11.0.0 / 2016-10-13
+===================
+- Update dependencies
+- Enable `class-methods-use-this`
+- Enable `jsx-a11y/anchor-has-content`
+- Enable `jsx-a11y/label-has-for`
+- Enable `jsx-a11y/no-static-element-interactions`
+- Enable `react/jsx-no-bind`
+- Enable `react/no-danger`
+- Enable `react/no-danger-with-children`
+- Enable `react/no-unused-prop-types`
+- Enable `react/style-prop-object`
+- Enable `react/no-unescaped-entities`
+- Enable `react/no-children-prop`
+
 10.0.0 / 2016-08-09
-==================
+===================
 - Exchange the code for a fork eslint-config-airbnb
 
 8.0.1 / 2016-04-22
