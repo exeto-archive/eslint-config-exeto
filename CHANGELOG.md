@@ -1,3 +1,6 @@
+11.1.0 / 2016-11-24
+- Update `eslint-plugin-jsx-a11y` to version 3.0.1
+
 11.0.0 / 2016-10-13
 ===================
 - Update dependencies
