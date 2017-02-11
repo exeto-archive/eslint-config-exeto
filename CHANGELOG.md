@@ -1,3 +1,8 @@
+12.0.0 / 2017-02-12
+===================
+- Update `eslint-plugin-jsx-a11y` to version 4.0.0
+- Update `eslint-config-exeto-base` to version 3.0.1
+
 11.1.0 / 2016-11-24
 ===================
 - Update `eslint-plugin-jsx-a11y` to version 3.0.1
