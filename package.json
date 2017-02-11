@@ -22,7 +22,7 @@
     "styleguide"
   ],
   "dependencies": {
-    "eslint-config-exeto-base": "^2.0.1"
+    "eslint-config-exeto-base": "^3.0.1"
   },
   "peerDependencies": {
     "eslint": "^3.7.1",
