@@ -1,3 +1,7 @@
+12.0.1 / 2017-07-09
+===================
+- Add "no maintained" notice
+
 12.0.0 / 2017-02-12
 ===================
 - Update `eslint-plugin-jsx-a11y` to version 4.0.0
