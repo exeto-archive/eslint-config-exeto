@@ -2,6 +2,8 @@
 
 > This repository is a fork of [eslint-config-airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 
+**THIS PACKAGE IS NO LONGER MAINTAINED**
+
 ## Install
 
 ```bash
@@ -45,7 +47,7 @@ Add one of the following in your `.eslintrc`:
 
 [MIT](LICENSE.md) © [Airbnb](https://github.com/airbnb) and [Timofey Dergachev](https://exeto.me/en)
 
-[depstat-url]: https://david-dm.org/exeto/eslint-config-exeto#info=Dependencies
-[depstat-image]: https://img.shields.io/david/exeto/eslint-config-exeto.svg?style=flat-square
-[peerdepstat-url]: https://david-dm.org/exeto/eslint-config-exeto?type=peer
-[peerdepstat-image]: https://david-dm.org/exeto/eslint-config-exeto/peer-status.svg?style=flat-square
+[depstat-url]: https://david-dm.org/exeto-archive/eslint-config-exeto#info=Dependencies
+[depstat-image]: https://img.shields.io/david/exeto-archive/eslint-config-exeto.svg?style=flat-square
+[peerdepstat-url]: https://david-dm.org/exeto-archive/eslint-config-exeto?type=peer
+[peerdepstat-image]: https://david-dm.org/exeto-archive/eslint-config-exeto/peer-status.svg?style=flat-square

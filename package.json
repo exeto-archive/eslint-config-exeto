@@ -3,7 +3,7 @@
   "version": "12.0.0",
   "description": "Eslint config based on the config Airbnb",
   "main": "index.js",
-  "repository": "exeto/eslint-config-exeto",
+  "repository": "exeto-archive/eslint-config-exeto",
   "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
   "license": "MIT",
   "files": [
